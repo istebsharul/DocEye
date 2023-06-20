@@ -25,7 +25,7 @@ DocEye: Face and Signature Recognition API
 * Seamlessly integrate the DocEye API into your applications or systems.
 * Improve efficiency, reduce manual effort, and enhance document management tasks.
 
-#INSTALLATION
+# INSTALLATION
 1. Clone the repository :
 git clone https://github.com/istebsharul/DocEye.git
 
