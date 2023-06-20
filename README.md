@@ -35,3 +35,10 @@ https://drive.google.com/file/d/1k5m8gF1dpZTdeMsv2VnVefQbUIGwsf_f/view?usp=shari
 3. Install the required dependencies : 
 pip install -r requirements.txt
 
+# Steps to Use the model
+1. After installing all the dependencies.
+2. Run the main.py from terminal 
+    cmd: uvicorn main:app --reload
+3. open Local Host : http://127.0.0.1:8000
+4. Use Swagger for UI by appending /docs after http://127.0.0.1:8000/docs
+5. Go to Post Section Upload Image and you will get the Result.
